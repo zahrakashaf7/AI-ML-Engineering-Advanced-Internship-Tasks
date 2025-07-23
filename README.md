@@ -5,7 +5,7 @@
 ## Objective
 The objective of this task is to build a News Topic Classifier using the BERT (`bert-base-uncased`) transformer model. The classifier predicts the topic category of a news headline, such as World, Sports, Business, or Sci/Tech, using the AG News dataset.
 
----
+
 
 ## Methodology / Approach
 
@@ -18,16 +18,16 @@ The objective of this task is to build a News Topic Classifier using the BERT (`
   4. Evaluated model performance using accuracy and F1-score
   5. Built a Gradio web interface for live predictions
 
----
+
 
 ## Key Results / Observations
 
-- ✅ The model was successfully trained and evaluated, achieving **75–85% accuracy** on a small training subset
-- ✅ When tested through the Gradio interface, the model correctly classified real-world news headlines into the correct topics
-- ✅ BERT performed well even with limited data, showing strong generalization for short-text classification
-- 💡 This task demonstrates the effectiveness of transformer models like BERT for Natural Language Processing (NLP) tasks
+- The model was successfully trained and evaluated, achieving **75–85% accuracy** on a small training subset
+- When tested through the Gradio interface, the model correctly classified real-world news headlines into the correct topics
+- BERT performed well even with limited data, showing strong generalization for short-text classification
+- This task demonstrates the effectiveness of transformer models like BERT for Natural Language Processing (NLP) tasks
 
----
+
 
 ## Tools Used
 - Python
