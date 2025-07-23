@@ -1,4 +1,5 @@
 # AI-ML-Engineering-Advanced-Internship-Tasks
+My tasks for the AI/ML Engineering Internship at DevelopersHub
 
 # Task 1: News Topic Classifier Using BERT
 
