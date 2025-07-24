@@ -28,9 +28,9 @@ The objective of this task is to build a News Topic Classifier using the BERT (`
 - BERT performed well even with limited data, showing strong generalization for short-text classification
 - This task demonstrates the effectiveness of transformer models like BERT for Natural Language Processing (NLP) tasks
 
-  ---
+  -----
 
-  # Task 2: Telco Customer Churn Prediction using End-to-End ML Pipeline
+# Task 2: Telco Customer Churn Prediction using End-to-End ML Pipeline
 
 ## Objective of the Task
 The goal of this task was to build a complete end-to-end machine learning pipeline that predicts whether a telecom customer is likely to churn. The pipeline needed to automate preprocessing, model training, hyperparameter tuning, and evaluation — making it production-ready and reusable.
