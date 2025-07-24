@@ -75,9 +75,4 @@ The goal of this task was to build a complete end-to-end machine learning pipeli
 
 
 
-## Tools Used
-- Python
-- Hugging Face Transformers
-- Datasets Library
-- PyTorch
-- Gradio
+
